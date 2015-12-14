@@ -1,0 +1,28 @@
+name: PupUp
+favicon: null
+layout_spectrum: 0.9701775694265962
+typography_spectrum: 0.013412189204245806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0778574924916029
+  lightness: 0.5630380164366215
+  saturation: 0.34304342046380043
+  rhythmicContrast: 0.39602622552774847
+purpose: []
