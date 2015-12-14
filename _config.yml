@@ -2,12 +2,13 @@ name: PupUp
 favicon: null
 layout_spectrum: 0.9701775694265962
 typography_spectrum: 0.013412189204245806
+title: PupUp Studio
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-37786396-5
   facebook: null
   twitter: null
 opengraph:
