@@ -1,7 +1,7 @@
 name: PupUp
 favicon: null
-layout_spectrum: 0.9701775694265962
-typography_spectrum: 0.013412189204245806
+layout_spectrum: 0.8814
+typography_spectrum: 0.39533
 title: PupUp Studio
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#634739'
     - '#1f181b'
   brandStrength: 0.5
-  lightness: 0.5630380164366215
-  saturation: 0.34304342046380043
-  rhythmicContrast: 0.39602622552774847
+  lightness: 0.75
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
