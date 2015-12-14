@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PupUp Studio]]></title>
+        <description><![CDATA[PupUp Studio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 17:06:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About PupUp]]></title>
+            <description><![CDATA[<article><h1>About PupUp</h1><p>
+			PupUp Studio is an experimental project investigating the running of a
+ commercial canine photography studio.  Using a temporary space in the 
+Brixton Academy, London SW9 9SL, we're experimenting with new 
+techniques, technology and work-flow, to streamline the production of 
+high quality portraiture and product shots.  This increases our volume, 
+and lowers your costs, while ensuring our stringent quality standards 
+continue to be met.
+		      </p></article>]]></description>
+            <link>undefinedabout-pupup/index.html</link>
+            <guid isPermaLink="false">f7308a0d-336e-4993-ab77-bea83aa346b7</guid>
+            <pubDate>Mon, 14 Dec 2015 17:06:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
