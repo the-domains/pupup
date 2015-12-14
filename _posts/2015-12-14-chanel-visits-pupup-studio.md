@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T18:20:57.407Z'
-dateModified: '2015-12-14T18:20:42.832Z'
+datePublished: '2015-12-14T18:23:55.857Z'
+dateModified: '2015-12-14T18:23:48.554Z'
 title: '"Chanel" visits PupUp Studio'
 author: []
 authors: []
