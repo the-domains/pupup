@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[PupUp Studio]]></title>
         <description><![CDATA[PupUp Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pupup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 17:06:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 17:14:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pupup/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/pupup/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">df56ede4-777a-4fb5-92ec-c495e96eda99</guid>
+            <pubDate>Mon, 14 Dec 2015 17:14:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About PupUp]]></title>
             <description><![CDATA[<article><h1>About PupUp</h1><p>
@@ -17,7 +24,7 @@ high quality portraiture and product shots.  This increases our volume,
 and lowers your costs, while ensuring our stringent quality standards 
 continue to be met.
 		      </p></article>]]></description>
-            <link>undefinedabout-pupup/index.html</link>
+            <link>https://thegrid.ai/pupup/about-pupup/index.html</link>
             <guid isPermaLink="false">f7308a0d-336e-4993-ab77-bea83aa346b7</guid>
             <pubDate>Mon, 14 Dec 2015 17:06:40 GMT</pubDate>
         </item>
