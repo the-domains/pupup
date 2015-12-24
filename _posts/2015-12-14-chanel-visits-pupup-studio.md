@@ -7,18 +7,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T18:23:55.857Z'
-dateModified: '2015-12-14T18:23:48.554Z'
+datePublished: '2015-12-24T14:20:49.246Z'
+dateModified: '2015-12-14T18:27:02.631Z'
 title: '"Chanel" visits PupUp Studio'
 author: []
+sourcePath: _posts/2015-12-14-chanel-visits-pupup-studio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-14-chanel-visits-pupup-studio.md
-published: true
 _type: Blurb
 
 ---
